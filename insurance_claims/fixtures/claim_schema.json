@@ -1,0 +1,8 @@
+{
+  "field_descriptions": {
+    "net_pay": {
+      "type": "string",
+      "description": "Amount paid in US dollars in this example."
+    }
+  }
+}

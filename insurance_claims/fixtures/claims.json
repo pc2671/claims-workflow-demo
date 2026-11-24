@@ -1,0 +1,31 @@
+[
+  {
+    "case_id": "CL-7101",
+    "party_id": "DEMO-A",
+    "case_type": "auto",
+    "created_at": "2026-09-12",
+    "status": "open",
+    "summary": "Windshield repair awaiting a receipt",
+    "documents_needed": [
+      "itemized glass receipt"
+    ]
+  },
+  {
+    "case_id": "CL-7102",
+    "party_id": "DEMO-A",
+    "case_type": "auto",
+    "created_at": "2026-08-02",
+    "status": "closed",
+    "summary": "Mirror repair reimbursed",
+    "net_pay": "185.00"
+  },
+  {
+    "case_id": "CL-8201",
+    "party_id": "DEMO-B",
+    "case_type": "auto",
+    "created_at": "2026-10-11",
+    "status": "denied",
+    "summary": "Duplicate wheel repair request",
+    "denial_reason": "the same repair had already been reimbursed"
+  }
+]

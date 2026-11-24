@@ -1,0 +1,18 @@
+[
+  {
+    "party_id": "DEMO-A",
+    "name": "Robin Vale",
+    "email": "robin@example.org",
+    "phone": "+12025550131",
+    "policy_number": "DEMO-71",
+    "dob": "1991-02-08"
+  },
+  {
+    "party_id": "DEMO-B",
+    "name": "Ellis Lake",
+    "email": "ellis@example.org",
+    "phone": "+12025550162",
+    "policy_number": "DEMO-82",
+    "dob": "1982-07-11"
+  }
+]
